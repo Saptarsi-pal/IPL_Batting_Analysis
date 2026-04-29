@@ -49,16 +49,12 @@ Renamed columns for consistency.
 Standardized formats.
 Ensured clean and analysis-ready data.
 4. Feature Engineering
-
 Created calculated metrics such as:
-
 Runs per Match
 Boundary Runs
 Boundary Percentage
 5. SQL Analysis (MySQL)
-
 Solved analytical business questions including:
-
 Top 10 run scorers
 Highest batting average
 Best strike rate players
@@ -67,17 +63,12 @@ Team-wise total runs
 Most sixes by team
 Highest individual score
 6. Dashboard Development
-
 Designed an interactive Power BI dashboard for performance tracking and comparison.
-
 7. Reporting & Presentation
-
 Prepared final project documentation and presentation slides using Gamma.
 
 Dashboard Highlights
-
 The Power BI dashboard includes:
-
 Total Runs
 Highest Score
 Total Centuries
